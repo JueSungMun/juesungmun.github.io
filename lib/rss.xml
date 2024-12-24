@@ -1,4 +1,8 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Github_IO]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Github_IO</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 24 Dec 2024 16:28:31 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 24 Dec 2024 16:28:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[👓프로필]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Github_IO]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Github_IO</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 24 Dec 2024 16:34:12 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 24 Dec 2024 16:34:12 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[참조테스트1]]></title><description><![CDATA[ 
+ <br><br>
+<br>가나다라
+<br>마바사아자
+<br><br><img alt="KakaoTalk_20240802_000544943.png" src="\exports\lib\attachments\kakaotalk_20240802_000544943.png"><br>]]></description><link>참조테스트1.html</link><guid isPermaLink="false">참조테스트1.md</guid><pubDate>Tue, 24 Dec 2024 16:32:08 GMT</pubDate><enclosure url="exports\lib\attachments\kakaotalk_20240802_000544943.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="exports\lib\attachments\kakaotalk_20240802_000544943.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[👓프로필]]></title><description><![CDATA[ 
  <br><br><br>
 <br>👨‍💻이름 : 주성문
 <br>🎂 생년월일 : 1987.04.10
@@ -31,11 +35,7 @@
 <br><br><br>
 <br>전남대학교 컴퓨터 정보 통신 전공, 2015
 <br>전남대학교 컴퓨터 공학, 2013
-]]></description><link>이력서\이력서.html</link><guid isPermaLink="false">이력서/이력서.md</guid><pubDate>Tue, 24 Dec 2024 16:24:22 GMT</pubDate></item><item><title><![CDATA[참조테스트1]]></title><description><![CDATA[ 
- <br><br>
-<br>가나다라
-<br>마바사아자
-<br><br><img alt="KakaoTalk_20240802_000544943.png" src="\attachments\kakaotalk_20240802_000544943.png"><br>]]></description><link>참조테스트1.html</link><guid isPermaLink="false">참조테스트1.md</guid><pubDate>Tue, 24 Dec 2024 14:13:28 GMT</pubDate><enclosure url="attachments\kakaotalk_20240802_000544943.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="attachments\kakaotalk_20240802_000544943.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[테스트용페이지용]]></title><description><![CDATA[ 
+]]></description><link>이력서\이력서.html</link><guid isPermaLink="false">이력서/이력서.md</guid><pubDate>Tue, 24 Dec 2024 16:24:22 GMT</pubDate></item><item><title><![CDATA[테스트용페이지용]]></title><description><![CDATA[ 
  <br><a data-href="참조테스트1" href="\참조테스트1.html" class="internal-link" target="_self" rel="noopener nofollow">참조테스트1</a><br><br><br><br>
 <br>가나다라
 <br>마바사아자
